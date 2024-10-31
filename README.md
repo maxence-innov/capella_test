@@ -37,3 +37,6 @@ Theses commands allow to clean up the environment, and are executed after each a
 make delete-cluster
 k3d registry delete k3d-myregistry.localhost
 ```
+
+Now the platform is running.  
+More detailed here : [Notes](/Attempt_2024-10_31_1/Notes.md)  
